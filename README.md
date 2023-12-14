@@ -39,7 +39,7 @@ I'm Abdulrahman Abu Almagd, A passionate Full-Stack .NET web developer with a ba
 
 ### Featured Project
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=ITI-Graduation-Project&theme=dark)](https://github.com/Abdulrhman-Ahmad/ITI-Graduation-Project)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=Full-Ecommerce-Project&theme=dark)](https://github.com/Abdulrhman-Ahmad/ITI-Graduation-Project)
 
 ---
 
