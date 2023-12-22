@@ -1,8 +1,8 @@
 <div align="center">
-
+<!-- 
   <div id="header" >
     <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-  </div>
+  </div> -->
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat-square&scale=2)](https://www.facebook.com/abdo.ahmed.abo.elmagd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square&scale=2)](https://linkedin.com/in/abdulrahmanabualmagd)
