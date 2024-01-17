@@ -12,23 +12,25 @@
 
 
    <h1 align="center">
-    Hey There!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Summary
   </h1>
 
 
 
-I'm Abdulrahman Abu Almagd, A passionate Full-Stack .NET web developer with a background in software engineering. Demonstrated experience in web programming, particularly within the .NET framework. Eager to contribute to a collaborative, competitive, and creative development environment.
+<p align="left">
+Results-driven Full Stack Developer with over a year of experience in designing, developing, and maintaining web applications. Proficient in C#, ASP.NET Core MVC, Web API, and Angular. Adept at implementing enterprise application patterns and ensuring highquality deliverables.
+</p>
+
 
 ## 🎓 Internship
 
-<p align="center">
+<p align="left">
 - Full Stack Web Development Using .Net , ITI Elminya, 2023
 </p>
 
 ## 🎓 Education
 
-<p align="center">
+<p align="left">
 - Bachelor of Electrical and Computer Engineering , Elminya-University, Egypt, 2021
 </p>
 
