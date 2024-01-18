@@ -41,7 +41,7 @@ Results-driven Full Stack Developer with over a year of experience in designing,
 
 ## 💻 Featured Projects
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=ITI-Graduation-Project&theme=dark)](https://github.com/Abdulrhman-Ahmad/ITI-Graduation-Project)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=ECommerce-WebStore&theme=dark)](https://github.com/Abdulrhman-Ahmad/ITI-Graduation-Project)
 
 ---
 
