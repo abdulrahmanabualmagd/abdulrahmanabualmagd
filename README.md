@@ -44,7 +44,7 @@ Results-driven Full Stack Developer with over a year of experience in designing,
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=ECommerce-WebStore&theme=dark)](https://github.com/Abdulrhman-Ahmad/ECommerce-WebStore) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=MVC_Core&theme=dark)](https://github.com/Abdulrhman-Ahmad/MVC_Core)
 
 ## 💻 Learning Repositories
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=ConsoleApps&theme=dark)](https://github.com/Abdulrhman-Ahmad/ConsoleApps) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=javascript-topics&theme=dark)](https://github.com/Abdulrhman-Ahmad/javascript-topics) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=sql-commands&theme=dark)]([(https://github.com/Abdulrhman-Ahmad/sql-commands)])
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=ConsoleApps&theme=dark)](https://github.com/Abdulrhman-Ahmad/ConsoleApps) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=javascript-topics&theme=dark)](https://github.com/Abdulrhman-Ahmad/javascript-topics) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=sql-commands&theme=dark)]((https://github.com/Abdulrhman-Ahmad/sql-commands))
 
 ---
 
