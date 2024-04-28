@@ -41,14 +41,14 @@ Results-driven Full Stack Developer with over a year of experience in designing,
 
 ## 💻 Featured Projects
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=ECommerce-WebStore&theme=dark)](https://github.com/Abdulrhman-Ahmad/ECommerce-WebStore) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=receipt-system&theme=dark)](https://github.com/Abdulrhman-Ahmad/receipt-system)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=ECommerce-WebStore&theme=dark)](https://github.com/abdulrahmanabualmagd/ECommerce-WebStore) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=receipt-system&theme=dark)](https://github.com/abdulrahmanabualmagd/receipt-system)
 
 ## 💻 Learning Repositories
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=csharp-topics&theme=dark)](https://github.com/Abdulrhman-Ahmad/csharp-topics) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=javascript-topics&theme=dark)](https://github.com/Abdulrhman-Ahmad/javascript-topics) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrhman-Ahmad&repo=sql-commands&theme=dark)](https://github.com/Abdulrhman-Ahmad/sql-commands) 
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=csharp-topics&theme=dark)](https://github.com/abdulrahmanabualmagd/csharp-topics) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=javascript-topics&theme=dark)](https://github.com/abdulrahmanabualmagd/javascript-topics) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=sql-commands&theme=dark)](https://github.com/abdulrahmanabualmagd/sql-commands) 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Abdulrhman-Ahmad&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abdulrahmanabualmagd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
