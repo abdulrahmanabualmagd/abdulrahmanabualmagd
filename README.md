@@ -41,7 +41,7 @@ Results-driven Full Stack Developer with over a year of experience in designing,
 
 ## 💻 Featured Projects
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=ECommerce-WebStore&theme=dark)](https://github.com/abdulrahmanabualmagd/ECommerce-WebStore) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=receipt-system&theme=dark)](https://github.com/abdulrahmanabualmagd/receipt-system)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=electronics-angular&theme=dark)](https://github.com/abdulrahmanabualmagd/electronics-angular) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=electronics-webapi&theme=dark)](https://github.com/abdulrahmanabualmagd/electronics-webapi) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=receipt-system&theme=dark)](https://github.com/abdulrahmanabualmagd/receipt-system)
 
 ## 💻 Learning Repositories
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=csharp-topics&theme=dark)](https://github.com/abdulrahmanabualmagd/csharp-topics) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=javascript-topics&theme=dark)](https://github.com/abdulrahmanabualmagd/javascript-topics) [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmanabualmagd&repo=sql-commands&theme=dark)](https://github.com/abdulrahmanabualmagd/sql-commands) 
