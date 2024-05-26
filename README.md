@@ -18,7 +18,7 @@
 
 
 <p align="left">
-Results-driven Full Stack Developer with over a year of experience in designing, developing, and maintaining web applications. Proficient in C#, ASP.NET Core MVC, Web API, and Angular. Adept at implementing enterprise application patterns and ensuring highquality deliverables.
+Results-driven Full Stack Software Engineer experienced in designing, developing, and maintaining web applications. Proficient in various programming languages and frameworks, including front-end and back-end technologies. Adept at implementing enterprise application patterns and ensuring high-quality deliverables.
 </p>
 
 
